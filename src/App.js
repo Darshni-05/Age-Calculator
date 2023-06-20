@@ -30,7 +30,8 @@ function App() {
     color:"white",
     border:"0px",
     width:"120px",
-    height:"40px"
+    height:"40px",
+    fontFamily: "serif"
   }
   var myinputstyle = {
     width:"350px",
